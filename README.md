@@ -2,7 +2,7 @@
 
 ### Project Description
 
-NextJS Based backend for Online cinema project
+NestJS Based backend for Online cinema project
 
 ### Tools
 
