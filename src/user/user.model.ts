@@ -11,7 +11,7 @@ export class UserModel extends TimeStamps {
 	@prop()
 	password: string
 
-	@prop({ default: false })
+	@prop({ default: true })
 	isAdmin: boolean
 
 	@prop({ default: [], ref: () => MovieModel })
