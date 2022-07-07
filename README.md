@@ -1,4 +1,4 @@
-# Project "Online-cinema" backend
+# Online-cinema pet-project backend
 
 ### Project Description
 
