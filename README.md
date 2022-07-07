@@ -1,8 +1,8 @@
-# Online-cinema pet-project backend
+# Project "Online-cinema" backend
 
 ### Project Description
 
-NestJS Based backend for Online cinema project
+NestJS backend for Online cinema project
 
 ### Tools
 
